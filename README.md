@@ -1,2 +1,2 @@
 # python_jupiter_notebooks
-Python Jupiter Notebooks 
+This is where the Python Jupiter Notebooks are stored.
